@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: base
 title:  'Introduction'
 ---
 ITK SNAP is a software program that allows users to complete segmentations of medical images. While commonly used for brain imaging, ITK SNAP can be used to segment other structures within the body both in 2D and 3D. For further details on what ITK SNAP is and its creators, please visit http://www.itksnap.org/pmwiki/pmwiki.php. Here, we present a reference guide for manual segmentation of MRI images of lumbar spine musculature for users new to ITK SNAP.
