@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ITK SNAP images
+title: Segmentation Scans
 nav_order: 1
 ---
 # Segmentation Scans
