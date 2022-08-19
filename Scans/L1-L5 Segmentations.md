@@ -35,3 +35,14 @@ D, E, and F include the segmentations of the lumbar multifidus (red), erector sp
 
 <img src='../images/image9.png' style = 'display: block; margin-left: auto; margin-right: auto; width: 100%;'>
 <b>Figure 6</b>: All images are fat images at the L2/L3 level. The first column (A & D) are images of the control. The middle column (B & E) are images of an age-matched individual with LBP. The third column (C & F) are images of the older individual with LBP. D, E, and F include the segmentations of the lumbar multifidus (red), erector spinae (green), quadratus lumborum (blue), and psoas (yellow) muscles.
+
+### L3/L4
+
+<img src='../images/image10.png' style = 'display: block; margin-left: auto; margin-right: auto; width: 100%;'>
+<b>Figure 7</b>: All images are T2-weighted images at the L3/L4 level. The first column (A & D) are images of the control. The middle column (B & E) are images of an age-matched individual with LBP. The third column (C & F) are images of the older individual with LBP. D, E, and F include the segmentations of the lumbar multifidus (red), erector spinae (green), quadratus lumborum (blue), and psoas (yellow) muscles.
+
+<img src='../images/image11.png' style = 'display: block; margin-left: auto; margin-right: auto; width: 100%;'>
+<b>Figure 8</b>: All images are water images at the L3/L4 level. The first column (A & D) are images of the control. The middle column (B & E) are images of an age-matched individual with LBP. The third column (C & F) are images of the older individual with LBP. D, E, and F include the segmentations of the lumbar multifidus (red), erector spinae (green), quadratus lumborum (blue), and psoas (yellow) muscles.
+
+<img src='../images/image12.png' style = 'display: block; margin-left: auto; margin-right: auto; width: 100%;'>
+<b>Figure 9</b>: All images are fat images at the L3/L4 level. The first column (A & D) are images of the control. The middle column (B & E) are images of an age-matched individual with LBP. The third column (C & F) are images of the older individual with LBP. D, E, and F include the segmentations of the lumbar multifidus (red), erector spinae (green), quadratus lumborum (blue), and psoas (yellow) muscles.
