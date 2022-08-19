@@ -18,3 +18,9 @@ quadratus lumborum (blue), and psoas (yellow) are presented underneath their res
 <b>Figure 1</b>: All images are T2-weighted images at the L1/L2 level. The first column (A & D) are images of the control.
 The middle column (B & E) are images of an age-matched individual with LBP. The third column (C & F) are images of the older individual with LBP. 
 D, E, and F include the segmentations of the lumbar multifidus (red), erector spinae (green), quadratus lumborum (blue), and psoas (yellow) muscles.
+
+<img src='../images/image5.png' style = 'display: block; margin-left: auto; margin-right: auto; width: 100%;'>
+<b>Figure 2</b>: All images are water images at the L1/L2 level. The first column (A & D) are images of the control. The middle column (B & E) are images of an age-matched individual with LBP. The third column (C & F) are images of the older individual with LBP. D, E, and F include the segmentations of the lumbar multifidus (red), erector spinae (green), quadratus lumborum (blue), and psoas (yellow) muscles.
+
+<img src='../images/image5.png' style = 'display: block; margin-left: auto; margin-right: auto; width: 100%;'>
+<b>Figure 3</b>: All images are fat images at the L1/L2 level. The first column (A & D) are images of the control. The middle column (B & E) are images of an age-matched individual with LBP. The third column (C & F) are images of the older individual with LBP. D, E, and F include the segmentations of the lumbar multifidus (red), erector spinae (green), quadratus lumborum (blue), and psoas (yellow) muscles.
