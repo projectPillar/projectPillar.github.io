@@ -52,7 +52,7 @@ Remember, QL is generally an elongated muscle with the posterior border being st
 <br>
 Remember, psoas is generally round with a possible elongation at the posterior border at the lower lumbar levels. At the upper lumbar levels, psoas may be more narrow as the muscle begins at L1-L3.
 <br><br>
-To see segmentations from L1-L5 in a female control, age-matched female with low back pain, and an elderly female, <u>click here</u>. 
+To see segmentations from L1-L5 in a female control, age-matched female with low back pain, and an elderly female, <a href='https://projectpillar.github.io/Scans/L1-L5%20Segmentations.html'><u>click here</u></a>. 
 To see segmentations from L1-L5 in a male control, age-matched male with low back pain, and an elderly male, <u>click here</u>. 
 <br>
 
