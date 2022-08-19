@@ -3,7 +3,7 @@ layout: default
 title: ITK SNAP images
 nav_order: 1
 ---
-# ITK-SNAP images
+# Segmentation Scans
 
 ## Female Segmentation
 
