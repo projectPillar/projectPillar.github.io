@@ -127,7 +127,5 @@ The following MRI images are separated into three columns. The first column cont
 
 <img src='../images/male15.png' style = 'display: block; margin-left: auto; margin-right: auto; width: 100%;'>
 <b>Figure 15</b>: All images are fat images at the L5/S1 level. The first column (A & D) are images of the control. The middle column (B & E) are images of an age-matched individual with LBP. The third column (C & F) are images of the older individual with LBP. D, E, and F include the segmentations of the lumbar multifidus (red), erector spinae (green), quadratus lumborum (blue), and psoas (yellow) muscles.
-
-<br>
-
+<br><br>
 <b><i>*NOTE: unable to segment psoas muscles on fat and water images due to images being cut off. This can sometimes occur depending on where the block of MRI images finishes. If you know you need to segment this area, it may be beneficial to request the block to finish slightly lower.</i></b>
