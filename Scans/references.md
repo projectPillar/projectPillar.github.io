@@ -4,7 +4,6 @@ title: References
 nav_order: 3
 ---
 <h1>References</h1>
-<br>
 Cooley JR, Hebert JJ, Zoete A de, et al. Assessing lumbar paraspinal muscle cross-sectional area and fat composition with T1 versus T2-weighted magnetic resonance imaging: Reliability and concurrent validity. PLOS ONE. 2021;16(2):e0244633. doi:10.1371/journal.pone.0244633
 <br><br>
 Crawford RJ, Cornwall J, Abbott R, Elliott JM. Manually defining regions of interest when quantifying paravertebral muscles fatty infiltration from axial magnetic resonance imaging: a proposed method for the lumbar spine with anatomical cross-reference. BMC Musculoskelet Disord. 2017;18:25. doi:10.1186/s12891-016-1378-z
