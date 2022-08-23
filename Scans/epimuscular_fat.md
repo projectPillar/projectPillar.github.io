@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Epimuscular Fat
-nav_order: 1
+nav_order: 2
 ---
 # Epimuscular Fat
 
