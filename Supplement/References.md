@@ -1,7 +1,7 @@
 ---
 layout: default
 title: References
-nav_order: 3
+nav_order: 1
 ---
 <h1>References</h1>
 <br>
