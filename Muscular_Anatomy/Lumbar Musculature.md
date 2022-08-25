@@ -47,6 +47,7 @@ sidebending unilaterally, and respiration. In addition, it is known to help stab
 ## Psoas
 <br>
 (Faisal et al. 2017, Netter FH. 2014)
+<br>
 Psoas originates on the anterior aspect of the transverse processes, vertebral bodies, and intervertebral discs of T12-L5. It passes anterior to the hip joint
 capsule to insert onto the lesser trochanter of the femur. The psoas muscle performs hip flexion and aids in flexion of the trunk and pelvis when working bilaterally.
 Due to its origins, psoas is closely related to the diaphragm and viscera in the area.
@@ -60,7 +61,7 @@ to its anatomical insertion points. When comparing the control to the individual
 Intramuscular fat also increases with age. Females generally have higher levels of fat compared to males which is observed by the greater amount of white in the
 muscle (intramuscular fat) and around the muscle (epimuscular fat).
 <br><br>
-## Tutorials
+## Tutorials of Muscle Segmentation
 
 ### Opening and Saving
 <iframe type="text/html" width="640" height="360"
