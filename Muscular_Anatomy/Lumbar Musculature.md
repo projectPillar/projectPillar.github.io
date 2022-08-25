@@ -65,4 +65,5 @@ to its anatomical insertion points. When comparing the control to the individual
 Intramuscular fat also increases with age. Females generally have higher levels of fat compared to males which is observed by the greater amount of white in the
 muscle (intramuscular fat) and around the muscle (epimuscular fat).
 <br><br>
+To see a video of the segmentation process for these muscles <a href='#videos'>click here</a>.
 
