@@ -7,6 +7,8 @@ nav_order: 1
 # Lumbar Musculature
 <br>
 ## Lumbar Multifidus (LM)
+<b>
+(Macintosh et al. 1986, Netter FH. 2014)
 <br>
 The multifidus is a deep local spinal muscle that spans the entire length of the spine. The multifidus muscle originates on the transverse processes and inserts 
 onto the spinous process of the vertebrae above, spanning 1-3 segments depending on whether you are looking at the deep, intermediate, or superficial fibres.
@@ -16,6 +18,8 @@ during movement, in addition to playing a key role in the transferral of forces 
 <img src='../images/image1.png' style = 'display: block; margin-left: auto; margin-right: auto; width: 50%;'>
 <br>
 ## Erector Spinae (ES)
+<b>
+(Daggfeldt et al. 2000, Netter FH. 2014)
 <br>
 The erector spinae group is composed of the iliocostalis, longissimus, and spinalis muscle groups. In the lumbar spine, it is primarily composed of the 
 iliocostalis and longissimus groups. The iliocostalis lumborum (the lumbar section of the iliocostalis group) originates on the lateral crests of the sacrum,
@@ -33,12 +37,16 @@ working bilaterally and sidebending when activating unilaterally.
 <br>
 ## Quadratus Lumborum (QL)
 <br>
+(Phillips et al.  2008, Netter FH. 2014)
+<br>
 The quadratus lumborum originates on the superior and posterior aspect of the iliolumbar ligament, the middle part of the posterior aspect of the iliac crest, 
 and the thoracolumbar fascia. It inserts onto the lower border of the 12th rib and the transverse processes of L1-L4. QL aids in trunk extension bilaterally, 
 sidebending unilaterally, and respiration. In addition, it is known to help stabilize the trunk during gait due to its attachments to the pelvic girdle.
 <br>
 <br>
 ## Psoas
+<br>
+(Faisal et al. 2017, Netter FH. 2014)
 Psoas originates on the anterior aspect of the transverse processes, vertebral bodies, and intervertebral discs of T12-L5. It passes anterior to the hip joint
 capsule to insert onto the lesser trochanter of the femur. The psoas muscle performs hip flexion and aids in flexion of the trunk and pelvis when working bilaterally.
 Due to its origins, psoas is closely related to the diaphragm and viscera in the area.
@@ -52,5 +60,26 @@ to its anatomical insertion points. When comparing the control to the individual
 Intramuscular fat also increases with age. Females generally have higher levels of fat compared to males which is observed by the greater amount of white in the
 muscle (intramuscular fat) and around the muscle (epimuscular fat).
 <br><br>
-To see a video of the segmentation process for these muscles click here.
-<br>
+<iframe type="text/html" width="640" height="360"
+  src='https://www.youtube.com/watch?v=fTRBO_E5QKU'
+  ></iframe>
+ <br>
+<iframe type="text/html" width="640" height="360"
+src='https://www.youtube.com/watch?v=3Nark9shMAg'
+></iframe>
+   <br>
+<iframe type="text/html" width="640" height="360"
+src='https://youtu.be/5JsF5jiW6II'
+></iframe>
+  <br>
+<iframe type="text/html" width="640" height="360"
+src='https://youtu.be/A5sstjo5cuo'
+></iframe>
+  <br>
+  <iframe type="text/html" width="640" height="360"
+src='https://youtu.be/3pj4scFuiE0'
+></iframe>
+  <br>
+  <iframe type="text/html" width="640" height="360"
+src='https://youtu.be/rxUkpK2UmW8'
+></iframe>
