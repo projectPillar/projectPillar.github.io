@@ -7,7 +7,7 @@ nav_order: 1
 # Lumbar Musculature
 <br>
 ## Lumbar Multifidus (LM)
-<b>
+<br>
 (Macintosh et al. 1986, Netter FH. 2014)
 <br>
 The multifidus is a deep local spinal muscle that spans the entire length of the spine. The multifidus muscle originates on the transverse processes and inserts 
@@ -18,7 +18,7 @@ during movement, in addition to playing a key role in the transferral of forces 
 <img src='../images/image1.png' style = 'display: block; margin-left: auto; margin-right: auto; width: 50%;'>
 <br>
 ## Erector Spinae (ES)
-<b>
+<br>
 (Daggfeldt et al. 2000, Netter FH. 2014)
 <br>
 The erector spinae group is composed of the iliocostalis, longissimus, and spinalis muscle groups. In the lumbar spine, it is primarily composed of the 
@@ -60,26 +60,34 @@ to its anatomical insertion points. When comparing the control to the individual
 Intramuscular fat also increases with age. Females generally have higher levels of fat compared to males which is observed by the greater amount of white in the
 muscle (intramuscular fat) and around the muscle (epimuscular fat).
 <br><br>
+## Tutorials
+
+### Opening and Saving
 <iframe type="text/html" width="640" height="360"
   src='https://www.youtube.com/embed/fTRBO_E5QKU'
   ></iframe>
  <br>
+### Rundown of tools
 <iframe type="text/html" width="640" height="360"
 src='https://www.youtube.com/embed/3Nark9shMAg'
 ></iframe>
    <br>
+### LM segmentation
 <iframe type="text/html" width="640" height="360"
 src='https://www.youtube.com/embed/5JsF5jiW6II'
 ></iframe>
   <br>
+ ### ES Segmentation
 <iframe type="text/html" width="640" height="360"
 src='https://www.youtube.com/embed/A5sstjo5cuo'
 ></iframe>
   <br>
+### QL Segmentation
   <iframe type="text/html" width="640" height="360"
 src='https://www.youtube.com/embed/3pj4scFuiE0'
 ></iframe>
   <br>
+ ### Psoas Segmentation
   <iframe type="text/html" width="640" height="360"
 src='https://www.youtube.com/embed/rxUkpK2UmW8'
 ></iframe>
