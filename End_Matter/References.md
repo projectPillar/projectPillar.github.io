@@ -18,3 +18,4 @@ Macintosh JE, Valencia F, Bogduk N, Munro RR. The morphology of the human lumbar
 Netter FH. Atlas of Human Anatomy. Sixth ed. Philadelphia, PA: Saunders/Elsevier; 2014.
 <br><br>
 Phillips S, Mercer S, Bogduk N. Anatomy and biomechanics of quadratus lumborum. Proc Inst Mech Eng [H]. 2008;222(2):151-159. doi:10.1243/09544119JEIM266
+
