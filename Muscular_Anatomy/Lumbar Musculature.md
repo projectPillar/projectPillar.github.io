@@ -77,7 +77,7 @@ src='https://www.youtube.com/embed/3Nark9shMAg'
 src='https://www.youtube.com/embed/5JsF5jiW6II'
 ></iframe>
   <br>
- ### ES Segmentation
+### ES Segmentation
 <iframe type="text/html" width="640" height="360"
 src='https://www.youtube.com/embed/A5sstjo5cuo'
 ></iframe>
@@ -87,7 +87,7 @@ src='https://www.youtube.com/embed/A5sstjo5cuo'
 src='https://www.youtube.com/embed/3pj4scFuiE0'
 ></iframe>
   <br>
- ### Psoas Segmentation
+### Psoas Segmentation
   <iframe type="text/html" width="640" height="360"
 src='https://www.youtube.com/embed/rxUkpK2UmW8'
 ></iframe>
