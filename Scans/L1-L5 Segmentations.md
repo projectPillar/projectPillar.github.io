@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Segmentation Scans
+title: Segmentation of Scans
 nav_order: 3
 ---
 # Segmentation Scans
