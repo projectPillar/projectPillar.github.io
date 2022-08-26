@@ -33,6 +33,9 @@ Remember, the fat next to the spinous process is included as part of the LM segm
 Remember, if fat has accumulated along the medial border (i.e. between LM and ES), this fat is included as part of the ES segmentation. The anterior border leading towards the lateral border runs along the QL. Sometimes there is a clear line to separate the two, sometimes there is not. If the border is not clear, follow the rounded edge at the lateral border and work towards the anterior border at the tip of the zygapophyseal joint. This point of ES may also come into contact with the posterior border of the psoas muscle in the upper lumbar levels. For the posterior border of the ES, it is still debated whether to include the epimuscular fat or not (the white fat-filled “tents” between longissimus and iliocostalis or it may span the length of the posterior border). <u>Please take a look at the “epimuscular fat band” section to learn more about the inclusion and exclusion of this portion.</u>
 <br>
 ## Quadratus Lumborum (QL) 
+
+(Crawford et al. 2017)
+<br>
 <ul>
 <li><b>Medial border</b> - may extend all the way towards the mammillary process at the tip of the ES border or may come to a point meeting psoas and ES depending on the lumbar level investigated</li>
 <li><b>Anterior border</b> - intermuscular fascial line between QL and psoas</li>
@@ -43,6 +46,9 @@ Remember, if fat has accumulated along the medial border (i.e. between LM and ES
 Remember, QL is generally an elongated muscle with the posterior border being straight. If the border is not clear, follow the line of the small fat accumulation where the lateral and posterior borders meet with ES. At L5, QL is no longer visible on images due to its insertion point being the superior aspect of the iliac crest.
 <br>
 ## Psoas 
+
+(Crawford et al. 2017)
+<br>
 <ul>
 <li><b>Medial border</b> - the intervertebral disc</li>
 <li><b>Anterior border</b> - interfascial border with the viscera and may border several blood vessels (e.g. splenic artery, inferior vena cava, etc) depending on the level and whether on the right or left side</li>
@@ -51,6 +57,12 @@ Remember, QL is generally an elongated muscle with the posterior border being st
   </ul>
 <br>
 Remember, psoas is generally round with a possible elongation at the posterior border at the lower lumbar levels. At the upper lumbar levels, psoas may be more narrow as the muscle begins at L1-L3.
+<br><br>
+Images from Crawford et al. 2017 article depicting segmentations at 2 different levels:
+<br><br>
+<img src='../images/image2.1.png' style = 'display: block; margin-left: auto; margin-right: auto; width: 50%;'>
+<br>
+<img src='../images/image2.2.png' style = 'display: block; margin-left: auto; margin-right: auto; width: 50%;'>
 <br><br>
 To see segmentations from L1-L5 in a female control, age-matched female with low back pain, and an elderly female, <a href='https://projectpillar.github.io/Scans/L1-L5%20Segmentations.html'><u>click here</u></a>. 
 To see segmentations from L1-L5 in a male control, age-matched male with low back pain, and an elderly male, <a href='https://projectpillar.github.io/Scans/L1-L5%20Segmentations.html#male'><u>click here</u></a>. 
