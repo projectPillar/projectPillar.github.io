@@ -60,9 +60,9 @@ Remember, psoas is generally round with a possible elongation at the posterior b
 <br><br>
 Images from Crawford et al. 2017 article depicting segmentations at 2 different levels:
 <br><br>
-<img src='../images/image2.1.png' style = 'display: block; margin-left: auto; margin-right: auto; width: 50%;'>
+<img src='../images/image2.1.png' style = 'display: block; margin-left: auto; margin-right: auto; width: 100%;'>
 <br>
-<img src='../images/image2.2.png' style = 'display: block; margin-left: auto; margin-right: auto; width: 50%;'>
+<img src='../images/image2.2.png' style = 'display: block; margin-left: auto; margin-right: auto; width: 100%;'>
 <br><br>
 To see segmentations from L1-L5 in a female control, age-matched female with low back pain, and an elderly female, <a href='https://projectpillar.github.io/Scans/L1-L5%20Segmentations.html'><u>click here</u></a>. 
 To see segmentations from L1-L5 in a male control, age-matched male with low back pain, and an elderly male, <a href='https://projectpillar.github.io/Scans/L1-L5%20Segmentations.html#male'><u>click here</u></a>. 
