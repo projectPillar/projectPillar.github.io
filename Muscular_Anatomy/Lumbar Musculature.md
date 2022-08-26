@@ -34,7 +34,7 @@ lumbar vertebrae and the anterior layer of the thoracolumbar fascia. This muscle
 well as into the lower 9 or 10 ribs between the tubercles and angles. Both the iliocostalis lumborum and longissimus thoracis muscles perform trunk extension when 
 working bilaterally and sidebending when activating unilaterally.
 <br>
-<img src='../images/image1.2.png' style = 'display: inline; margin-left: auto; margin-right: auto; width: 50%;'>
+<img src='../images/image1.2.png' style = 'display: block; margin-left: auto; margin-right: auto; width: 50%;'>
 <br>
 <b>Image 2 - Netter FH.</b> <i>Atlas of Human Anatomy.</i> Seventh ed. Philadelphia, PA: Elsevier; 2019.
 <br>
@@ -47,7 +47,7 @@ The quadratus lumborum originates on the superior and posterior aspect of the il
 and the thoracolumbar fascia. It inserts onto the lower border of the 12th rib and the transverse processes of L1-L4. QL aids in trunk extension bilaterally, 
 sidebending unilaterally, and respiration. In addition, it is known to help stabilize the trunk during gait due to its attachments to the pelvic girdle.
 <br>
-<img src='../images/image1.3.png' style = 'display: inline; margin-left: auto; margin-right: auto; width: 50%;'>
+<img src='../images/image1.3.png' style = 'display: block; margin-left: auto; margin-right: auto; width: 50%;'>
 <br>
 <b>Image 3 - Netter FH.</b> <i>Atlas of Human Anatomy.</i> Seventh ed. Philadelphia, PA: Elsevier; 2019.
 <br>
@@ -61,7 +61,7 @@ Psoas originates on the anterior aspect of the transverse processes, vertebral b
 capsule to insert onto the lesser trochanter of the femur. The psoas muscle performs hip flexion and aids in flexion of the trunk and pelvis when working bilaterally.
 Due to its origins, psoas is closely related to the diaphragm and viscera in the area.
 <br>
-<img src='../images/image1.4.png' style = 'display: inline; margin-left: auto; margin-right: auto; width: 50%;'>
+<img src='../images/image1.4.png' style = 'display: block; margin-left: auto; margin-right: auto; width: 50%;'>
 <br>
 <b>Image 4 - Netter FH.</b><i> Atlas of Human Anatomy.</i> Seventh ed. Philadelphia, PA: Elsevier; 2019.
 <br>
