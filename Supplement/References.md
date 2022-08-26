@@ -15,6 +15,8 @@ Faisal SB, Al Bastaki UMH, Pierre-Jerome C. The Psoas Major Muscle at the Lumbar
 <br><br>
 Macintosh JE, Valencia F, Bogduk N, Munro RR. The morphology of the human lumbar multifidus. Clin Biomech Bristol Avon. 1986;1(4):196-204. doi:10.1016/0268-0033(86)90146-4
 <br><br>
+Hodges PW, Bailey JF, Fortin M, Battié MC. Paraspinal muscle imaging measurements for common spinal disorders: review and consensus-based recommendations from the ISSLS degenerative spinal phenotypes group. Eur Spine J 2021;30(12):3428-3441. doi:10.1007/s00586-021-06990-2
+<br><br>
 Netter FH. Atlas of Human Anatomy. Sixth ed. Philadelphia, PA: Saunders/Elsevier; 2014.
 <br><br>
 Phillips S, Mercer S, Bogduk N. Anatomy and biomechanics of quadratus lumborum. Proc Inst Mech Eng [H]. 2008;222(2):151-159. doi:10.1243/09544119JEIM266
