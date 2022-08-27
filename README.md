@@ -1,2 +1,2 @@
-![](https://komarev.com/ghpvc/?username=projectPillar.github.io)
-![](https://komarev.com/ghpvc/?username=projectPillar.github,io&label=PILLAR+VIEWS)
+![](https://komarev.com/ghpvc/?username=projectPillar)
+![](https://komarev.com/ghpvc/?username=projectPillar&label=PILLAR+VIEWS)
