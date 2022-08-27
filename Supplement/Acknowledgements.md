@@ -17,3 +17,5 @@ The contributors to the PILLAR project:
   <li>Yiming Xiao</li>
   <li>Maryse Fortin</li>
 </ul>
+
+Contact email: concordia.inspirelab@gmail.com
