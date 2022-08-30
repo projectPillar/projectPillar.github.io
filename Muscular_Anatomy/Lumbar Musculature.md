@@ -42,7 +42,7 @@ working bilaterally and sidebending when activating unilaterally.
 <div style='display:flex'>
   <img src='../images/image1.2.png' style = 'display: block; margin-left: auto; margin-right: auto; width: 50%;'>
   <img src='../images/image1.12.png' style = 'display: block; margin-left: auto; margin-right: auto; width: 50%;'>
-  < /div>
+ </div>
 <br>
 <b>right: Image 2 - Netter FH.</b> <i>Atlas of Human Anatomy.</i> Seventh ed. Philadelphia, PA: Elsevier; 2019.
 <b>left: Image 2 - https://www.earthslab.com/anatomy/muscles-of-the-back/</b>
