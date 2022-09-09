@@ -16,10 +16,9 @@ onto the spinous process of the vertebrae above, spanning 1-3 segments depending
 The lumbar portion is found on either side of the lumbar vertebrae (L1-L5). LM has been shown to provide segmental stabilization at rest and proprioceptive control
 during movement, in addition to playing a key role in the transferral of forces from the lower extremities through the kinetic chain.
 <br>
-<div style='display:flex'>
-  <img src='../images/image1.1.png' style = 'display: block; margin-left: auto; margin-right: auto; width: 50%;'>
-  <img src='../images/image1.11.png' style = 'display: block; margin-left: auto; margin-right: auto; width: 50%;'>
- </div>
+
+ <img src='../images/image1.11.png' style = 'display: block; margin-left: auto; margin-right: auto; width: 75%;'>
+
 
 <br>
 <b>left: Image 1 - Netter FH.</b> <i>Atlas of Human Anatomy.</i> Seventh ed. Philadelphia, PA: Elsevier; 2019.
@@ -39,10 +38,9 @@ lumbar vertebrae and the anterior layer of the thoracolumbar fascia. This muscle
 well as into the lower 9 or 10 ribs between the tubercles and angles. Both the iliocostalis lumborum and longissimus thoracis muscles perform trunk extension when 
 working bilaterally and sidebending when activating unilaterally.
 <br>
-<div style='display:flex'>
-  <img src='../images/image1.2.png' style = 'display: block; margin-left: auto; margin-right: auto; width: 50%;'>
-  <img src='../images/image1.12.png' style = 'display: block; margin-left: auto; margin-right: auto; width: 50%;'>
- </div>
+
+ <img src='../images/image1.12.png' style = 'display: block; margin-left: auto; margin-right: auto; width: 75%;'>
+
 <br>
 <b>right: Image 2 - Netter FH.</b> <i>Atlas of Human Anatomy.</i> Seventh ed. Philadelphia, PA: Elsevier; 2019.
 <b>left: Image 2 - https://www.earthslab.com/anatomy/muscles-of-the-back/</b>
