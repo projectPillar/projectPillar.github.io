@@ -9,6 +9,6 @@ As back muscle imaging research is becoming more prevalent, Hodges et al. (2021)
 
 Table from Hodges et al. 2021
 
-<img src='../images/image3.11.png' style = 'display: block; margin-left: auto; margin-right: auto; width: 100%; image-rendering: pixelated;'>
-<img src='../images/image3.21.png' style = 'display: block; margin-left: auto; margin-right: auto; width: 100%; image-rendering: pixelated;'>
+<img src='../images/image3.11.png' style = 'display: block; margin-left: auto; margin-right: auto; width: 100%; image-rendering: crisp-edges;'>
+<img src='../images/image3.21.png' style = 'display: block; margin-left: auto; margin-right: auto; width: 100%; image-rendering: crisp-edges;'>
 
