@@ -21,7 +21,7 @@ during movement, in addition to playing a key role in the transferral of forces 
 
 
 <br>
-<b>right: Image 1 - https://www.earthslab.com/anatomy/muscles-of-the-back/</b>
+<b>Image 1 - https://www.earthslab.com/anatomy/muscles-of-the-back/</b>
 <br>
 ## Erector Spinae (ES)
 <br>
