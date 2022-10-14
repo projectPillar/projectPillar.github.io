@@ -21,7 +21,6 @@ during movement, in addition to playing a key role in the transferral of forces 
 
 
 <br>
-<b>left: Image 1 - Netter FH.</b> <i>Atlas of Human Anatomy.</i> Seventh ed. Philadelphia, PA: Elsevier; 2019.
 <b>right: Image 1 - https://www.earthslab.com/anatomy/muscles-of-the-back/</b>
 <br>
 ## Erector Spinae (ES)
