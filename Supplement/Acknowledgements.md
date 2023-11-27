@@ -21,4 +21,5 @@ The PILLAR project was a collaboration between the INSPIRE lab and HEALTH-X Lab 
  Contact email: concordia.inspirelab@gmail.com
 
 Please cite the following article when using the PILLAR Project resource:
+
 Anstruther, M., Rossini, B., Zhang, T., Liang, Terrance, Xiao, Y., Fortin, M., PILLAR: ParaspInaL muscLe segmentAtion pRoject - a comprehensive online resource to guide manual segmentation of paraspinal muscles from magnetic resonance imaging. BMC Musculoskelet Disord 24, 909 (2023). https://doi.org/10.1186/s12891-023-07029-x
